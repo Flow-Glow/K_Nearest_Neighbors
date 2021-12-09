@@ -74,7 +74,7 @@ def main():
 
     for test_point in new_point:
         point,closest = classify_point(point=test_point, td=Default_data, k=2, c_r=bool_var)
-        scatter_plot(Default_data, test_point, point,c_r=bool_var,closest=1)
+        scatter_plot(Default_data, test_point, point,c_r=bool_var,closest = closest)
 
 
 if __name__ == '__main__':
