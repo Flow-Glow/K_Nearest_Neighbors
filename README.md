@@ -23,7 +23,15 @@ K-Nearest Neighbors is a supervised machine learning algorithm that can be used 
 ![picture alt](https://gyazo.com/2ccc1a24b8bc2fe51f6b19e9c780b834.png "Flow Chart")
 - - - -
 ## K Nearest Neighbors in action
-### 2D:
+
+### Classification:
+#### 2D:
 ![picture alt](https://i.gyazo.com/74dbc131b931881726322a748eb834a1.png " K Nearest Neighbors in 2D")
-### 3D:
+#### 3D:
+![picture alt](https://i.gyazo.com/a386f313344695b4db75189dad4f9375.png " K Nearest Neighbors in 3D")
+
+###Regression
+#### 2D:
+![picture alt](https://i.gyazo.com/74dbc131b931881726322a748eb834a1.png " K Nearest Neighbors in 2D")
+#### 3D:
 ![picture alt](https://i.gyazo.com/a386f313344695b4db75189dad4f9375.png " K Nearest Neighbors in 3D")
