@@ -20,7 +20,7 @@ K-Nearest Neighbors is a supervised machine learning algorithm that can be used 
 5. Returning a prediction about the test example.
 
 ### Flow Chart
-![picture alt](https://i.gyazo.com/7a9a09e297a6d73374199869e1c8aacd.png "Flow Chart")
+![picture alt](https://gyazo.com/2ccc1a24b8bc2fe51f6b19e9c780b834.png "Flow Chart")
 - - - -
 ## K Nearest Neighbors in action
 ### 2D:
