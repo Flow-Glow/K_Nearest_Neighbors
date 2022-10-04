@@ -4,7 +4,7 @@
 K-Nearest Neighbors is a supervised machine learning algorithm that can be used for classification and regression. K-Nearest Neighbor looks at diffrent classes of data and predicts what class a new data point belongs to by checking K number of the closest data points to the new data point 
 
 1. Classification : Then finds the most frequent class label which will then become the new data point's class.
-2. Regression : Then finds the mean which will then become the new data point's class.
+2. Regression : Then finds the mean which will then become the new data point's Features.
 
 - - - - 
 ### Sources :
